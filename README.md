@@ -12,6 +12,6 @@ Használat:
 2. Frontend indítása: index.html-t nyissuk meg egy böngészőben.
 3. XAMPP indítása az adatbázis eléréséhez.
 
-Felhasználók és jelszavaik:
+Felhasználó - jelszó:
 admin - 123
 user - 123
